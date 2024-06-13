@@ -18,12 +18,10 @@ My name is Sofia Buryachenko. I am a programmer.
 - Ukrainian - native
 - Russian - native
 
-# Experience
+# Projects
 - Website for a social assistance center in Kherson 
 [Site](https://social-assistance-center-in-kherson.github.io/)
 [GitHub](https://github.com/social-assistance-center-in-Kherson/social-assistance-center-in-Kherson.github.io)
-
-# Projects
 - Game ["Purring Nightmare"](https://github.com/BuryachenkoSofia/Purring-Nightmare)
 - Game "Bulum"
 [GitHub](https://github.com/BuryachenkoSofia/Bulum)
