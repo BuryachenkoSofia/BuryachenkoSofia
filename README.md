@@ -9,6 +9,7 @@ C#, WPF, WinForms, Unity, Python, Django, C++, Git, HTML, CSS
 
 # Projects
 - Site ["buryachenkosofia.github.io"](https://buryachenkosofia.github.io/)
+[GitHub](https://github.com/BuryachenkoSofia/BuryachenkoSofia.github.io)
 - Game "Purring Nightmare"
 [GitHub](https://github.com/BuryachenkoSofia/Purring-Nightmare)
 - Game "Bulum"
