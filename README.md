@@ -8,13 +8,12 @@ C#, WPF, WinForms, Unity, Python, Django, C++, Git, HTML, CSS
 - Russian - native
 
 # Projects
-- Website for a social assistance center in Kherson 
-[Site](https://social-assistance-center-in-kherson.github.io/)
-[GitHub](https://github.com/social-assistance-center-in-Kherson/social-assistance-center-in-Kherson.github.io)
-- Game ["Purring Nightmare"](https://github.com/BuryachenkoSofia/Purring-Nightmare)
+- Site ["buryachenkosofia.github.io"](https://buryachenkosofia.github.io/)
+- Game "Purring Nightmare"
+[GitHub](https://github.com/BuryachenkoSofia/Purring-Nightmare)
 - Game "Bulum"
-[GitHub](https://github.com/BuryachenkoSofia/Bulum)
 [Itch.io](https://buryachenko.itch.io/bulum)
+[GitHub](https://github.com/BuryachenkoSofia/Bulum)
 - Game "On the other side of the boeder" 
 [Itch.io](https://buryachenko.itch.io/on-the-other-side-of-the-border)
 [GitHub](https://github.com/BuryachenkoSofia/On-the-other-side-of-the-border)
