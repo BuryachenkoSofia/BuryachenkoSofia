@@ -1,11 +1,7 @@
 # Sofia Buryachenko
 My name is Sofia Buryachenko. I am a programmer.
-## Skills:
-C#, WPF, WinForms, Unity, Python, Django, C++, Git, HTML, CSS      
-## Languages
-- English - intermediate
-- Ukrainian - native
-- Russian - native
+Skills: C#, WPF, WinForms, Unity, Python, Django, C++, Git, HTML, CSS.
+Languages: English, Ukrainian, Russian.
 
 # Projects
 - Site ["buryachenkosofia.github.io"](https://buryachenkosofia.github.io/)
