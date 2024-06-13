@@ -1,16 +1,48 @@
-## Hi there 👋
+# Sofia Buryachenko
+## About
+My name is Sofia Buryachenko. I am a programmer.
+## Skills
+- C#
+- WPF
+- WinForms
+- Unity
+- Python
+- Django
+- C++
+- Git
+- HTML
+- CSS
+        
+## Languages
+- English - intermediate
+- Ukrainian - native
+- Russian - native
 
-<!--
-**BuryachenkoSofia/BuryachenkoSofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Experience
+- Website for a social assistance center in Kherson 
+[Site](https://social-assistance-center-in-kherson.github.io/)
+[GitHub](https://github.com/social-assistance-center-in-Kherson/social-assistance-center-in-Kherson.github.io)
 
-Here are some ideas to get you started:
+# Projects
+- Game ["Purring Nightmare"](https://github.com/BuryachenkoSofia/Purring-Nightmare)
+- Game "Bulum"
+[GitHub](https://github.com/BuryachenkoSofia/Bulum)
+[Itch.io](https://buryachenko.itch.io/bulum)
+- Game "On the other side of the boeder" 
+[Itch.io](https://buryachenko.itch.io/on-the-other-side-of-the-border)
+[GitHub](https://github.com/BuryachenkoSofia/On-the-other-side-of-the-border)
 
-- 🔭 I’m currently working on ...
+# Contacts & Links
+- [buryachenko.sofia@gmail.com](mailto:buryachenko.sofia@gmail.com)
+- [GitHub](https://github.com/BuryachenkoSofia)
+- [Itch.io](https://buryachenko.itch.io/)
+
+
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
